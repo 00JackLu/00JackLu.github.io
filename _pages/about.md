@@ -1,4 +1,33 @@
----
+# About Me
+
+Hi there! I'm Zhaoqi Lu (JackLu), an aspiring researcher passionate about the intersection of AI and Science. Currently, I am pursuing my Master of Data Science at the University of Macau. I'm currently in the process of applying for a PhD program.
+
+I currently serve as a Research Assistant at the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/people/master-student/) at the University of Macau, under the esteemed guidance of Prof. Leong Hou U. In this role, I am deeply immersed in cutting-edge research focused on Graph Learning and Data Mining, with a specific emphasis on Graph Transformer. I'm proud to announce that I've recently submitted a first-author paper to TKDE (Q1) based on our work in this domain. Moreover, I've contributed as a co-author to papers currently under review in prestigious venues such as IJCAI.
+
+My research interests span a wide spectrum, including Graph Neural Networks, Reinforcement Learning, and Natural Language Processing. I am passionate about embracing new challenges and exploring novel fields in collaboration with experienced professors.
+
+## Technical Proficiency
+
+------
+In terms of technical skills, I boast a robust foundation in the entire research process, coupled with expertise in various programming languages and tools. From Java-Web development to Python web scraping and implementation of deep learning projects, I possess a versatile skill set that enables me to tackle diverse research problems effectively. Additionally, my experience as an AI Intern and Teaching Assistant has further honed my expertise in these domains.
+
+## Academic Achievements
+
+------
+Academically, I have consistently excelled, ranking in the top 11% during my undergraduate studies. I am honored to have received multiple Merit Student awards, scholarships, and the title of Outstanding Graduate at Henan University. Furthermore, my competitive spirit has earned me accolades, including 4 national-level, 5 provincial-level, and 5 university-level competition awards.
+
+## Others
+
+------
+
+1. IELTS: 6.5(6.0)
+2. CET-6: 515
+3. Guitar
+4. Exercise
+5. Basketball
+
+
+<!-- ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
@@ -19,11 +48,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
@@ -47,4 +76,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

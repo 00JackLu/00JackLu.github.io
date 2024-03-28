@@ -11,7 +11,7 @@ title                    : "LU ZHAOQI / JackLu"
 title_separator          : "-"
 name                     : &name "LU ZHAOQI"
 description              : &description "A Master Grade 2 in University of Macau"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://00jacklu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/00JackLu"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "LU ZHAOQI / Jacklu"
-  avatar           : "profile.png"
+  avatar           : "touxiang.jpg"
   bio              : "University of Macau"
   location         : "Taipa, MACAU"
   employer         : >- 
@@ -211,16 +211,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # _publications
+  _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  _publications
   - scope:
       path: ""
       type: publications
@@ -238,14 +238,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
