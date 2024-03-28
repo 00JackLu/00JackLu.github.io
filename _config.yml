@@ -84,7 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "University of Macau"
   location         : "Taipa, MACAU"
-  employer         : "Research Assistant in University of Macau, Master Student in IOTSC https://skliotsc.um.edu.mo/people/master-student/"
+  employer         : >- 
+                      "Research Assistant in University of Macau, 
+                      <a href='https://skliotsc.um.edu.mo/people/master-student/'>Master Student in IOTSC</a>"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "lu.zhaoqi@connect.um.edu.mo"
