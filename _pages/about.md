@@ -1,4 +1,12 @@
-# About Me
+---
+permalink: /
+title: "About"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Hi there! I'm Zhaoqi Lu (JackLu), an aspiring researcher passionate about the intersection of AI and Science. Currently, I am pursuing my Master of Data Science at the University of Macau. I'm currently in the process of applying for a PhD program.
 
@@ -6,18 +14,15 @@ I currently serve as a Research Assistant at the [State Key Laboratory of Intern
 
 My research interests span a wide spectrum, including Graph Neural Networks, Reinforcement Learning, and Natural Language Processing. I am passionate about embracing new challenges and exploring novel fields in collaboration with experienced professors.
 
-## Technical Proficiency
-
+Technical Proficiency
 ------
 In terms of technical skills, I boast a robust foundation in the entire research process, coupled with expertise in various programming languages and tools. From Java-Web development to Python web scraping and implementation of deep learning projects, I possess a versatile skill set that enables me to tackle diverse research problems effectively. Additionally, my experience as an AI Intern and Teaching Assistant has further honed my expertise in these domains.
 
-## Academic Achievements
-
+Academic Achievements
 ------
 Academically, I have consistently excelled, ranking in the top 11% during my undergraduate studies. I am honored to have received multiple Merit Student awards, scholarships, and the title of Outstanding Graduate at Henan University. Furthermore, my competitive spirit has earned me accolades, including 4 national-level, 5 provincial-level, and 5 university-level competition awards.
 
-## Others
-
+Others
 ------
 
 1. IELTS: 6.5(6.0)
