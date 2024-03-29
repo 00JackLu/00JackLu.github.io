@@ -21,13 +21,13 @@ In terms of technical skills, I boast a robust foundation in the entire research
 Academic Achievements
 ------
 Academically, I have consistently excelled, ranking in the top 11% during my undergraduate studies. I am honored to have received multiple Merit Student awards, scholarships, and the title of Outstanding Graduate at Henan University. Furthermore, my competitive spirit has earned me accolades, including 4 national-level, 5 provincial-level, and 5 university-level competition awards. Such as:
-  - Merit Student at Henan University (3 times): 2019.10 | 2020.10 | 2021.10
-  - Henan University Scholarship (2 times): 2020.10 | 2021.10
-  - National Excellence Award in the Python Group of the Blue Bridge Cup: 2021.05
-  - National Third Prize in the China College Student Computer Design Competition: 2021.07
-  - National Third Prize in the China College Student Service Outsourcing Innovation and Entrepreneurship Competition: 2021.08
-  - Second Prize in the National Finals of the National College Students' Digital Media Technology and Creative Competition: 2021.11
-  - First Prize in the Finals of the Greater Bay Area IT Application System Development Competition: 2023.11
+  - _Merit Student at Henan University_ (3 times): 2019.10 & 2020.10 & 2021.10
+  - _Henan University Scholarship_ (2 times)_: 2020.10 & 2021.10
+  - _National Excellence Award in the Python Group of the Blue Bridge Cup_: 2021.05
+  - _National Third Prize in the China College Student Computer Design Competition_: 2021.07
+  - _National Third Prize in the China College Student Service Outsourcing Innovation and Entrepreneurship Competition_: 2021.08
+  - _Second Prize in the National Finals of the National College Students' Digital Media Technology and Creative Competition_: 2021.11
+  - _First Prize in the Finals of the Greater Bay Area IT Application System Development Competition_: 2023.11
 
 
 Others
