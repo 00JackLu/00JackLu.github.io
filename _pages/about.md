@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Zhaoqi Lu (JackLu), an aspiring researcher passionate about the intersection of AI and Science. Currently, I am pursuing my Master of Data Science at the University of Macau. And now I'm in the process of applying for a PhD.
+Hi there! I'm Zhaoqi Lu (JackLu), an aspiring researcher passionate about the intersection of AI and Science. Currently, I am  a Year 1 Biomedical Engineering PhD Student in PolyU(The Hong Kong Polytechnic University).
 
-I currently serve as a Research Assistant at the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/people/master-student/) at the University of Macau, under the guidance of Prof. Leong Hou U. In this role, I am deeply immersed in cutting-edge research focused on Graph Learning and Data Mining, with a specific emphasis on Graph Transformer. I'm proud to announce that I've recently submitted a first-author paper to TKDE (Q1) based on our work in this domain. Moreover, I've contributed as a co-author to papers currently under review in prestigious venues such as IJCAI.
+I used to serve as a Research Assistant at the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/people/master-student/) at the University of Macau, under the guidance of Prof. Leong Hou U. In this role, I am deeply immersed in cutting-edge research focused on Graph Learning and Data Mining, with a specific emphasis on Graph Transformer. I'm proud to announce that I've recently submitted a first-author paper to AAAI based on our work in this domain. Moreover, I've contributed as a co-author to paper accepted in ICONIP2024.
 
-My research interests span a wide spectrum, including Graph Neural Networks, Reinforcement Learning, and Natural Language Processing. I am passionate about embracing new challenges and exploring novel fields in collaboration with experienced professors.
+My research interests span a wide spectrum, including Graph Neural Networks, Reinforcement Learning, and Natural Language Processing. I am passionate about embracing new challenges like AI4Science.
 
 Technical Proficiency
 ------
