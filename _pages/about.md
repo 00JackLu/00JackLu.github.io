@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Zhaoqi Lu (JackLu), an aspiring researcher passionate about the intersection of AI and Science. Currently, I am  a Year 1 Biomedical Engineering PhD Student in PolyU(The Hong Kong Polytechnic University).
+Hi there! I'm Zhaoqi Lu (JackLu), an aspiring researcher passionate about the intersection of AI and Science. Currently, I am  a Year 1 Biomedical Engineering PhD Student in PolyU(The Hong Kong Polytechnic University). Also, I'm a joint PhD Student in [GDIIST](https://www.gdiist.cn/research/team_detail/12), to develop amazing AI4Science application.
 
-I used to serve as a Research Assistant at the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/people/master-student/) at the University of Macau, under the guidance of Prof. Leong Hou U. In this role, I am deeply immersed in cutting-edge research focused on Graph Learning and Data Mining, with a specific emphasis on Graph Transformer. I'm proud to announce that our paper has been accpepted by AAAI2025. Moreover, I've contributed as a co-author to paper accepted in ICONIP2024.
+I used to serve as a Research Assistant at the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/people/master-student/) at the University of Macau, under the guidance of Prof. Leong Hou U. In this role, I am deeply immersed in cutting-edge research focused on Graph Learning and Data Mining, with a specific emphasis on Graph Transformer.
+
+I'm proud to announce that our paper "Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification" has been accpepted by AAAI2025. Many thanks to Prof. Leong Hou U and other co-authors. Moreover, I've contributed as a co-author to paper accepted in ICONIP2024.
 
 My research interests span a wide spectrum, including Graph Neural Networks, Reinforcement Learning, and Natural Language Processing. I am passionate about embracing new challenges like AI4Science.
 
