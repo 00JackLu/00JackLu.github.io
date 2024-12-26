@@ -12,7 +12,7 @@ Hi there! I'm Zhaoqi Lu (JackLu), an aspiring researcher passionate about the in
 
 I used to serve as a Research Assistant at the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/people/master-student/) at the University of Macau, under the guidance of Prof. Leong Hou U. In this role, I am deeply immersed in cutting-edge research focused on Graph Learning and Data Mining, with a specific emphasis on Graph Transformer.
 
-I'm proud to announce that our paper ["Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification"](https://openreview.net/forum?id=4oJTTlID57&noteId=kReYaR6KSK&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2025%2FConference%2FAuthors%23your-submissions)) has been accpepted by AAAI2025. Many thanks to Prof. Leong Hou U and other co-authors. Moreover, I've contributed as a co-author to paper "MIGNN: Exploiting Metric Isomorphism for Graph Neural Networks" accepted in ICONIP2024.
+I'm proud to announce that our paper ["Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification"](https://openreview.net/forum?id=4oJTTlID57&noteId=kReYaR6KSK&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2025%2FConference%2FAuthors%23your-submissions)) has been accepted by AAAI2025. Many thanks to Prof. Leong Hou U and other co-authors. Moreover, I've contributed as a co-author to paper "MIGNN: Exploiting Metric Isomorphism for Graph Neural Networks" accepted in ICONIP2024.
 
 My research interests span a wide spectrum, including Graph Neural Networks, Reinforcement Learning, and Natural Language Processing. I am passionate about embracing new challenges like AI4Science.
 
