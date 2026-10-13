@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "ZHAOQI LU"
 title_separator          : "-"
 name                     : &name "LU ZHAOQI"
-description              : &description "A Year 1 Biomedical Engineering PhD Student in PolyU(The Hong Kong Polytechnic University)"
+description              : &description "Year 3 Biomedical Engineering PhD Student at PolyU (The Hong Kong Polytechnic University)"
 url                      : https://00jacklu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/00JackLu"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "JackLu"
   avatar           : "touxiang.png"
-  bio              : "Year 1 PhD Student at PolyU, \n\ Master at University of Macau, \n\ RA in <a href='https://skliotsc.um.edu.mo/people/master-student/'>IOTSC</a>"
+  bio              : "Year 3 PhD Student at PolyU, \n\ Master at University of Macau, \n\ RA in <a href='https://skliotsc.um.edu.mo/people/master-student/'>IOTSC</a>"
   location         : "Hung Hom, Hong Kong"
   # employer         : " "                     
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "lu.zhaoqi@@connect.polyu.hk"
+  email            : "lu.zhaoqi@connect.polyu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :
@@ -96,7 +96,7 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  github           : "academicpages"
+  github           : "00JackLu"
   # google_plus      :
   # keybase          :
   # instagram        :

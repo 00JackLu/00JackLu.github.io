@@ -8,35 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Zhaoqi Lu (JackLu), an aspiring researcher passionate about the intersection of AI and Science. Currently, I am  a Year 1 Biomedical Engineering PhD Student in PolyU(The Hong Kong Polytechnic University). Also, I'm a joint PhD Student in [GDIIST](https://www.gdiist.cn/research/team_detail/12), to develop amazing AI4Science application.
+Hi there! I'm Zhaoqi Lu (JackLu), an aspiring researcher passionate about the intersection of AI and Science. I am a Year 3 Biomedical Engineering PhD student at PolyU (The Hong Kong Polytechnic University), and a joint PhD student at [GDIIST](https://www.gdiist.cn/research/team_detail/12), where I work on AI4Science applications.
 
-I used to serve as a Research Assistant at the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/people/master-student/) at the University of Macau, under the guidance of Prof. Leong Hou U. In this role, I am deeply immersed in cutting-edge research focused on Graph Learning and Data Mining, with a specific emphasis on Graph Transformer.
+Before that, I was a Research Assistant at the [State Key Laboratory of Internet of Things for Smart City](https://skliotsc.um.edu.mo/people/master-student/) at the University of Macau, under the guidance of Prof. Leong Hou U. My research there focused on Graph Learning and Data Mining, with a specific emphasis on Graph Transformers.
 
-I'm proud to announce that our paper ["Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification"](https://openreview.net/forum?id=4oJTTlID57&noteId=kReYaR6KSK&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2025%2FConference%2FAuthors%23your-submissions)) has been accepted by AAAI2025. Many thanks to Prof. Leong Hou U and other co-authors. Moreover, I've contributed as a co-author to paper "MIGNN: Exploiting Metric Isomorphism for Graph Neural Networks" accepted in ICONIP2024.
-
-My research interests span a wide spectrum, including Graph Neural Networks, Reinforcement Learning, and Natural Language Processing. I am passionate about embracing new challenges like AI4Science.
-
-Technical Proficiency
+News
 ------
-In terms of technical skills, I boast a robust foundation in the entire research process, coupled with expertise in various programming languages and tools. From Java-Web development to Python web scraping and implementation of deep learning projects, I possess a versatile skill set that enables me to tackle diverse research problems effectively. Additionally, my experience as an AI Intern and Teaching Assistant has further honed my expertise in these domains.
+- **2024.12**: Our paper ["Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification"](https://arxiv.org/abs/2412.15302) was accepted by **AAAI 2025**. Many thanks to Prof. Leong Hou U and the other co-authors.
+- **2024.12**: Co-authored paper "MIGNN: Exploiting Metric Isomorphism for Graph Neural Networks" was accepted by **ICONIP 2024**.
 
-Academic Achievements
+See all papers on the [Publications](/publications/) page.
+
+Research Interests
 ------
-Academically, I have consistently excelled, ranking in the top 11% during my undergraduate studies. I am honored to have received multiple Merit Student awards, scholarships, and the title of Outstanding Graduate at Henan University. Furthermore, my competitive spirit has earned me accolades, including 4 national-level, 5 provincial-level, and 5 university-level competition awards. Such as:
-  - _Merit Student at Henan University_ (3 times): 2019.10 & 2020.10 & 2021.10
-  - _Henan University Scholarship_ (2 times)_: 2020.10 & 2021.10
-  - _National Excellence Award in the Python Group of the Blue Bridge Cup_: 2021.05
-  - _National Third Prize in the China College Student Computer Design Competition_: 2021.07
-  - _National Third Prize in the China College Student Service Outsourcing Innovation and Entrepreneurship Competition_: 2021.08
-  - _Second Prize in the National Finals of the National College Students' Digital Media Technology and Creative Competition_: 2021.11
-  - _First Prize in the Finals of the Greater Bay Area IT Application System Development Competition_: 2023.11
+My research focuses on:
+1. **AI for Bioimage Analysis**
+2. **AI Agents for Biology Research**
+3. **Smart Scientific Instruments**
 
+Previously, I worked on Graph Neural Networks / Graph Transformers, Reinforcement Learning, and Natural Language Processing.
+
+Technical Skills
+------
+I have hands-on experience with the full research process, from idea to experiments to paper. My programming background ranges from Java web development to Python web scraping and deep learning projects. Work as an AI Intern and as a Teaching Assistant has strengthened these skills further.
 
 Others
 ------
-
-- IELTS: 6.5(6.0)
+- IELTS: 6.5 (6.0)
 - CET-6: 515
-- Guitar
-- Fitness
-- Basketball
+- Hobbies: Guitar, Fitness, Basketball
