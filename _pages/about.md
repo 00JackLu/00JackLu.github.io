@@ -14,8 +14,8 @@ Before that, I was a Research Assistant at the [State Key Laboratory of Internet
 
 News
 ------
-- **2024.12**: Our paper ["Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification"](https://arxiv.org/abs/2412.15302) was accepted by **AAAI 2025**. Many thanks to Prof. Leong Hou U and the other co-authors.
-- **2024.12**: Co-authored paper "MIGNN: Exploiting Metric Isomorphism for Graph Neural Networks" was accepted by **ICONIP 2024**.
+- Our paper ["Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification"](https://arxiv.org/abs/2412.15302) was accepted by **AAAI 2025**. Many thanks to Prof. Leong Hou U and the other co-authors.
+- Our co-authored paper "MIGNN: Exploiting Metric Isomorphism for Graph Neural Networks" was accepted by **ICONIP 2024**.
 
 See all papers on the [Publications](/publications/) page.
 
