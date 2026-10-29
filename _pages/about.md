@@ -14,6 +14,7 @@ Before that, I was a Research Assistant at the [State Key Laboratory of Internet
 
 News
 ------
+- Our paper ["CopilotJ: a conversational multi-agent system for intelligent and efficient bioimage analysis"](https://www.nature.com/articles/s41592-026-03290-9) was published in **Nature Methods**. Code is available on [GitHub](https://github.com/neurogeom/copilotj).
 - Our paper ["Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification"](https://arxiv.org/abs/2412.15302) was accepted by **AAAI 2025**. Many thanks to Prof. Leong Hou U and the other co-authors.
 - Our co-authored paper "MIGNN: Exploiting Metric Isomorphism for Graph Neural Networks" was accepted by **ICONIP 2024**.
 
